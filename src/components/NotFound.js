@@ -2,7 +2,7 @@ import React from 'react'
 
 const NotFound = () => {
   return (
-    <p className='not-found-message'>Page you're looking for doesn't exist</p>
+    <p className='not-found-message'>Page you're looking for doesn't exist ,Please search for the correct file</p>
   )
 }
 
